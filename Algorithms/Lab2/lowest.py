@@ -8,3 +8,5 @@ def main():
     for x in range(0,i):
         print(cif[x]," ")
 
+print("gunoi")
+
